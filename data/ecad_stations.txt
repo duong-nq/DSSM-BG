@@ -1,0 +1,13 @@
+Extract of ECA&D ECA_blend_rr/stations.txt for the nine stations of the paper.
+LAT and LON in degrees:minutes:seconds, HGHT in m (ECA&D station metadata).
+
+STAID, STANAME                                 , CN,      LAT,       LON, HGHT
+  434, Brest                                   , FR, +48:26:39, -04:24:42,   94
+  737, Lille                                   , FR, +50:34:12, +03:05:51,   47
+ 2190, Tours                                   , FR, +47:26:39, +00:43:37,  108
+  323, Strasbourg                              , FR, +48:32:57, +07:38:25,  150
+  750, Clermont-Ferrand                        , FR, +45:47:12, +03:08:57,  331
+   34, Bordeaux                                , FR, +44:49:50, -00:41:29,   47
+  786, Montélimar                              , FR, +44:34:51, +04:43:59,   73
+  756, Tarbes                                  , FR, +43:11:17, +00:00:00,  360
+   36, Perpignan                               , FR, +42:44:13, +02:52:22,   42
